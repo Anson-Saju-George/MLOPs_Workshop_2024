@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "Anil Kumar",
+        "Phone_Number": "+91 8943 123456",
+        "Address": "Vazhuthacaud, Thiruvananthapuram",
+        "DoB": "12/03/1986",
+        "Email": "anil.kumar86@example.com"
+    },
+    {
+        "Name": "Meera Nair",
+        "Phone_Number": "+91 8076 987654",
+        "Address": "Kakkanad, Kochi",
+        "DoB": "25/07/1990",
+        "Email": "meera.nair90@example.com"
+    },
+    {
+        "Name": "Ramesh Pillai",
+        "Phone_Number": "+91 9447 112233",
+        "Address": "Mavoor, Kozhikode",
+        "DoB": "03/11/1982",
+        "Email": "ramesh.pillai82@example.com"
+    },
+    {
+        "Name": "Priya Menon",
+        "Phone_Number": "+91 9746 223344",
+        "Address": "MG Road, Ernakulam",
+        "DoB": "17/02/1995",
+        "Email": "priya.menon95@example.com"
+    },
+    {
+        "Name": "Hari Krishnan",
+        "Phone_Number": "+91 8893 445566",
+        "Address": "Poojappura, Thiruvananthapuram",
+        "DoB": "09/09/1991",
+        "Email": "hari.krishnan91@example.com"
+    },
+    {
+        "Name": "Lakshmi Narayanan",
+        "Phone_Number": "+91 9846 556677",
+        "Address": "West Fort, Thrissur",
+        "DoB": "30/12/1988",
+        "Email": "lakshmi.narayanan88@example.com"
+    },
+    {
+        "Name": "Nisha George",
+        "Phone_Number": "+91 8123 667788",
+        "Address": "Munnar, Idukki",
+        "DoB": "20/05/1993",
+        "Email": "nisha.george93@example.com"
+    },
+    {
+        "Name": "Suresh Kumar",
+        "Phone_Number": "+91 8089 778899",
+        "Address": "Kottayam Town, Kottayam",
+        "DoB": "13/08/1985",
+        "Email": "suresh.kumar85@example.com"
+    },
+    {
+        "Name": "Deepa Varma",
+        "Phone_Number": "+91 8547 889900",
+        "Address": "Karamana, Thiruvananthapuram",
+        "DoB": "07/01/1997",
+        "Email": "deepa.varma97@example.com"
+    },
+    {
+        "Name": "Vishnu Raj",
+        "Phone_Number": "+91 8921 991122",
+        "Address": "Fort Kochi, Ernakulam",
+        "DoB": "21/06/1989",
+        "Email": "vishnu.raj89@example.com"
+    }
+]
